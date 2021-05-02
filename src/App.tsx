@@ -5,6 +5,6 @@ function App() {
       <WelcomeScreen />
     </div>
   );
-}
+};
 
 export default App;
