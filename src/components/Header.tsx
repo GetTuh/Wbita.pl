@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const Header = () => {
+const Header = () => (
         <div>
             <link
                 rel="stylesheet"
@@ -46,5 +46,5 @@ const Header = () => {
                 </div>
             </header>
         </div>
-}
+)
 export default Header
