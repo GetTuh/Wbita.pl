@@ -1,4 +1,6 @@
+import React from 'react'
 import WelcomeScreen from './layouts/WelcomeScreen'
+
 function App() {
     return (
         <div className="App">
