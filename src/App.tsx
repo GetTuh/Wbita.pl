@@ -1,10 +1,10 @@
-import WelcomeScreen from "./layouts/WelcomeScreen";
+import WelcomeScreen from './layouts/WelcomeScreen'
 function App() {
-  return (
-    <div className="App">
-      <WelcomeScreen />
-    </div>
-  );
-};
+    return (
+        <div className="App">
+            <WelcomeScreen />
+        </div>
+    )
+}
 
-export default App;
+export default App
